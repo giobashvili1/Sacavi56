@@ -1,0 +1,55 @@
+table{
+    margin-left: 250px;
+   
+}
+h2{
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30.26px;
+    margin-left: 250px;
+    text-align: justify;
+    
+}
+.id{
+    width: 72px;
+    height: 57px;
+    text-align: center;
+    font-weight: bolder;
+}
+.title{
+    width:444px;
+    height: 57px;
+    text-align: left;
+    font-weight: bolder;
+
+}
+.time{
+    width: 276px;
+    height: 57px;
+    font-weight: bolder;
+}
+.action{
+    width: 251px;
+    height: 57px;
+    font-weight: bolder;
+}
+.time1{
+    color: red;
+    font-weight: bolder;
+    text-align: center;
+}
+.edit1{
+    text-align: center;
+    font-weight: bolder;
+    
+}
+button{
+    width: 115px;
+    height: 36px;
+    background-color: #FFD43A;
+    border: 1px solid #FFD43A;
+}
+
+/* tables */
+
+
