@@ -10,11 +10,12 @@ table{
    
 }
 tr th{
-    font-family: 'fonti';
+    font-family: "fonti";
     border: 1px solid black;
     border-collapse: collapse;
 }
 h2{
+    font-family: "fonti";
     font-weight: 700;
     font-size: 25px;
     line-height: 30.26px;
